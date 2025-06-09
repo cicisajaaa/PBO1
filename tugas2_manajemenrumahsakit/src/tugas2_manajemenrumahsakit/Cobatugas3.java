@@ -5,6 +5,10 @@ public class Cobatugas3 {
     // =======================
     // CLASS PASIEN
     // =======================
+    
+    static class Dosen {
+        
+    }
     static class Pasien {
         // Atribut private untuk menjaga keamanan data pasien
         private String nama;
